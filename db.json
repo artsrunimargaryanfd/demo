@@ -1,0 +1,17 @@
+[
+    {
+      "bookId": 1,
+      "bookTitle": "Look who is back",
+      "bookAuthor": "Timur Vermes"
+    },
+    {
+      "bookId": 2,
+      "bookTitle": "Catch-22",
+      "bookAuthor": "Joseph Heller"
+    },
+    {
+      "bookId": 3,
+      "bookTitle": "The Festival of Insignificance",
+      "bookAuthor": "Milan Kundera"
+    }
+  ]
